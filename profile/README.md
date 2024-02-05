@@ -1,5 +1,5 @@
 # Haruzona
-Haruzona makes simple software.
+Haruzona makes simple and useful software.
 
 - Haru (春): spring
 - zona (園): garden
